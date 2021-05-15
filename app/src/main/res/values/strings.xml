@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Светофор</string>
+    <string name="text_b1_start">Start</string>
+    <string name="text_b1_stop">Stop</string>
+</resources>
